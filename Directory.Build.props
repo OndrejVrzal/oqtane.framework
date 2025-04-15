@@ -1,0 +1,10 @@
+<Project>
+	<PropertyGroup>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+		<GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>disable</ImplicitUsings>
+	</PropertyGroup>
+</Project>
